@@ -1,1 +1,1 @@
-Testes  de preditivas utilizando Pythoon.
+Testes  de preditivas utilizando Python.
